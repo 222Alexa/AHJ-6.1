@@ -68,3 +68,10 @@
 Дополнительные требования:
 1. Храните всё состояние в LocalStorage так, чтобы после обновления страницы внесённые изменения сохранялись
 1. Постоение DOM-дерева производите на базе состояния, хранящегося в LocalStorage
+
+---
+
+[![Build status](https://ci.appveyor.com/api/projects/status/7o80nq9161a7dfcx/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ahj-6-1-lj7gw/branch/main)
+
+
+https://222alexa.github.io/AHJ-6.1/
